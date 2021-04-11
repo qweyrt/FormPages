@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "productid": 1,
+      "productname": "War and Peace",
+      "description": "A novel by the Russian author Leo Tolstoy, published in 1869",
+      "price": 450000,
+      "quantities": 1
+    },
+    {
+      "productid": 2,
+      "productname": "Les Misérables",
+      "description": "a French historical novel by Victor Hugo, published in 1862",
+      "price": 700000,
+      "quantities": 0
+    },
+    {
+      "productid": 3,
+      "productname": "Oliver Twist",
+      "description": "A novel by the English writer Charles Dickens, published in 1838",
+      "price": 860000,
+      "quantities": 2
+    },
+    {
+      "productid": 4,
+      "productname": "The Call of the Wild",
+      "description": "a short adventure novel by Jack London, published in 1903",
+      "price": 1380000,
+      "quantities": 0
+    }
+  ],
+  "currentUser": {
+    "username": "qweyrt",
+    "email": "qweyrt@gmail.com"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "Howard",
+      "password": "12345678",
+      "email": "duck@gmail.com"
+    },
+    {
+      "id": 1,
+      "username": "Duck",
+      "password": "12345678",
+      "email": "howard@gmail.com"
+    }
+  ]
+}
